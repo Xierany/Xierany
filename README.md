@@ -7,7 +7,7 @@
 - 💻 In the process of learning programming at Jobloop's Kodehode. 
 - 👨‍🏫 4-year teachers degree and several years experience working as a teacher.
 - 💾 20+ years experience mantaining and fixing computers.
-- 🕹️ In my free time, I do 3D and work on video games.
+- 🕹️ In my spare time, I do 3D and work on video games.
 - 📫 Check out my LinkedIn here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eirik-hellesen-035695305/)
 ---
 
@@ -28,8 +28,8 @@
 
 ### :fire: My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEE082024KH&hide=stars&show_icons=true&theme=prussian)](https://github.com/HEE082024KH/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEE082024KH&size_weight=0.5&count_weight=0.5&layout=compact&theme=prussian)](https://github.com/HEE082024KH/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEE082024KH&hide=stars&show_icons=true&bg_color=100,242424,7D2323&title_color=9c3535&icon_color=9c3535&text_color=8c8c8c&border_color=787878&border_radius=10)](https://github.com/HEE082024KH/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEE082024KH&size_weight=0.5&count_weight=0.5&layout=compact&bg_color=120,242424,7D2323&title_color=9c3535&icon_color=9c3535&text_color=8c8c8c&border_color=787878&border_radius=10)](https://github.com/HEE082024KH/github-readme-stats)
 
 <!--
 
