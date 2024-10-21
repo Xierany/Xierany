@@ -6,7 +6,7 @@
 
 - 💻 In the process of learning programming at Jobloop's Kodehode. 
 - 👨‍🏫 4-year teachers degree and several years experience working as a teacher.
-- 💾 20+ years experience managing and fixing computers.
+- 💾 20+ years experience mantaining and fixing computers.
 - 🕹️ In my free time, I do 3D and work on video games.
 - 📫 Check out my LinkedIn here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eirik-hellesen-035695305/)
 ---
