@@ -1,13 +1,20 @@
+<div>
+  <img src="https://media.giphy.com/gifs/FlPJcTplkfefDCKq2b" width="600" height="300"/>
+</div>
+
+---
+
 ### 👨‍💻 About me :
+
 - 💻 In the process of learning programming at Jobloop's Kodehode. 
 - 👨‍🏫 4-year teachers degree and several years experience working as a teacher.
 - 💾 20+ years experience managing and fixing computers.
 - 🕹️ In my free time, I do 3D and work on video games.
 - 📫 Check out my LinkedIn here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eirik-hellesen-035695305/)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C Sharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -27,16 +34,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEE082024KH&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)](https://github.com/HEE082024KH/github-readme-stats)
 
 <!--
-**HEE082024KH/HEE082024KH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Picture GIF:
+<div>
+  <img src="https://media.giphy.com/gifs/FlPJcTplkfefDCKq2b" width="600" height="300"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Burning coder:     https://giphy.com/gifs/13HgwGsXF0aiGY
+Monkey coder:      https://media.giphy.com/gifs/FlPJcTplkfefDCKq2b
+
 -->
