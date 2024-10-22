@@ -10,7 +10,7 @@
 - 👨‍🏫 4-year teachers degree and several years experience working as a teacher.
 - 💾 20+ years experience mantaining and fixing computers.
 - 🕹️ In my spare time, I do 3D and work on video games.
-- 📫 Check out my LinkedIn here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eirik-hellesen-035695305/)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -35,10 +35,7 @@
 
 <!--
 
-Picture GIF:
-<div>
-  <img src="https://media.giphy.com/gifs/FlPJcTplkfefDCKq2b" width="600" height="300"/>
-</div>
+- 📫 Check out my LinkedIn here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eirik-hellesen-035695305/)
 
 Burning coder:     https://giphy.com/gifs/13HgwGsXF0aiGY
 Monkey coder:      https://media.giphy.com/gifs/FlPJcTplkfefDCKq2b
