@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About me :
 
-- 💻 In the process of learning programming at Jobloop's Kodehode. 
+- 💻 In the process of learning programming through Jobloop.
 - 👨‍🏫 4-year teachers degree and several years experience working as a teacher.
 - 💾 20+ years experience mantaining and fixing computers.
 - 🕹️ In my spare time, I do 3D and work on video games.
@@ -33,9 +33,15 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEE082024KH&hide=stars&show_icons=true&bg_color=100,242424,7D2323&title_color=d12e2e&icon_color=d12e2e&text_color=8c8c8c&border_color=787878&border_radius=10)](https://github.com/HEE082024KH/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEE082024KH&size_weight=0.5&count_weight=0.5&layout=compact&bg_color=120,242424,7D2323&title_color=d12e2e&icon_color=d12e2e&text_color=8c8c8c&border_color=787878&border_radius=10)](https://github.com/HEE082024KH/github-readme-stats)
 
+---
+
+### 📫 Contact me here:
+
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hee082024@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eirik-hellesen-035695305/)
+
 <!--
 
-- 📫 Check out my LinkedIn here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eirik-hellesen-035695305/)
 
 Burning coder:     https://giphy.com/gifs/13HgwGsXF0aiGY
 Monkey coder:      https://media.giphy.com/gifs/FlPJcTplkfefDCKq2b
