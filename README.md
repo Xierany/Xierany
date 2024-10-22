@@ -1,5 +1,5 @@
 <div>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="525" height="295" display="inline"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="525" height="295"/> 
 </div>
 
 ---
@@ -8,7 +8,7 @@
 
 - 💻 In the process of learning programming through Jobloop.
 - 👨‍🏫 4-year teachers degree and several years experience working as a teacher.
-- 💾 20+ years experience mantaining and fixing computers.
+- 💾 20+ years experience mantaining and fixing computers, both software and hardware.
 - 🕹️ In my spare time, I do 3D and work on video games.
 ### 📫 Contact me here:
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hee082024@gmail.com)
@@ -43,9 +43,18 @@
 
 <!--
 
+BIO TEXT:
+  <p display="inline"> Eager to learn and quick to learn and adapt to new things. Is responsible and able to be both structured and independent, but also flexible while working with others. Able to find solutions when encountering obstacles and able to handle stress well. Prefer keeping things tidy and work systematically.
+
+Was responsible for IT at a school I worked at previously, being in charge of setup and mantainance for 8 school classes, including teachers. Spent a semester abroad in USA attending several IT subjects about ethics, security and Windows-administration.
+
+I am polite and nice, with good spirits and mood, being supportive, including and friendly. Contributes to a good and pleasant working environment.</p>
+
+LANGUAGE ICONS STRUCTURE:
 <img src="" title="" alt="" width="40" height="40"/>&nbsp;
 
+CODER GIFS:
 Burning coder:     https://giphy.com/gifs/13HgwGsXF0aiGY
-Monkey coder:      https://media.giphy.com/gifs/FlPJcTplkfefDCKq2b
+Monkey coder:      https://giphy.com/gifs/FlPJcTplkfefDCKq2b
 
 -->
