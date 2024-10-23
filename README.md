@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn-bdmhh.nitrocdn.com/JNiKLBzGPsfbQJqUQoZqIbUrxBklWopT/assets/images/optimized/rev-06a734c/objectbox.io/wordpress/wp-content/uploads/2024/07/GitHub-Mark-Light-120px-plus-300x300.png" title="GitHub" alt="GitHub" width="45" height="45">
+  <source media="(prefers-color-scheme: dark)" srcset="https://static-00.iconduck.com/assets.00/github-light-icon-2048x1998-m3c0rgap.png" title="GitHub" alt="GitHub" width="40" height="40">
   <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="45" height="45">
 </picture>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
