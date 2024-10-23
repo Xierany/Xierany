@@ -8,10 +8,10 @@
 
 - 💻 In the process of learning programming through Jobloop.
 - 👨‍🏫 4-year teachers degree and several years experience working as a teacher.
-- 💾 20+ years experience mantaining and fixing computers, both software and hardware.
+- 💾 20+ years experience maintaining and fixing computers, both software and hardware.
 - 🕹️ In my spare time, I do 3D and work on video games.
 ### 📫 Contact me here:
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hee082024@gmail.com)
+<a href="mailto:hee082024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eirik-hellesen-035695305/)
 
 ---
