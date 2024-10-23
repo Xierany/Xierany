@@ -28,9 +28,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn-bdmhh.nitrocdn.com/JNiKLBzGPsfbQJqUQoZqIbUrxBklWopT/assets/images/optimized/rev-06a734c/objectbox.io/wordpress/wp-content/uploads/2024/07/GitHub-Mark-Light-120px-plus-300x300.png" width="45" height="45">
-  <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" height="45">
 </picture>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
@@ -58,6 +57,9 @@ BIO TEXT:
 Was responsible for IT at a school I worked at previously, being in charge of setup and mantainance for 8 school classes, including teachers. Spent a semester abroad in USA attending several IT subjects about ethics, security and Windows-administration.
 
 I am polite and nice, with good spirits and mood, being supportive, including and friendly. Contributes to a good and pleasant working environment.</p>
+
+GITHUB OLD ICON:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 
 LANGUAGE ICONS STRUCTURE:
 <img src="" title="" alt="" width="40" height="40"/>&nbsp;
