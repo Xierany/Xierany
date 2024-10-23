@@ -26,6 +26,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn-bdmhh.nitrocdn.com/JNiKLBzGPsfbQJqUQoZqIbUrxBklWopT/assets/images/optimized/rev-06a734c/objectbox.io/wordpress/wp-content/uploads/2024/07/GitHub-Mark-Light-120px-plus-300x300.png" width="45" height="45">
+  <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+</picture>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
@@ -35,6 +39,7 @@
   <img src="https://cdn2.steamgriddb.com/icon/3204765835133b3580b0f603a5c3b625.png" title="Daz Studio" alt="Daz3D" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/renpy/renpy-original.svg" title="Renpy" alt="Renpy" width="40" height="40"/>&nbsp;
 </div>
+
 
 ---
 
