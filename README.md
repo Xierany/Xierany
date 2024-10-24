@@ -60,13 +60,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac" alt="Mac" width="40" height="40"/>&nbsp;
-  </picture>
-  <picture>
-    <img src="https://cdn2.steamgriddb.com/icon/3204765835133b3580b0f603a5c3b625.png" title="Daz Studio" alt="Daz3D" width="40" height="40"/>&nbsp;
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.iconsdb.com/icons/preview/white/apple-xxl.png" title="Apple" alt="Apple" width="40" height="40">
+    <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40">
   </picture>
   <picture>
     <img src="https://github.com/devicons/devicon/blob/master/icons/renpy/renpy-original.svg" title="Renpy" alt="Renpy" width="40" height="40"/>&nbsp;
+  </picture>
+  <picture>
+    <img src="https://cdn2.steamgriddb.com/icon/3204765835133b3580b0f603a5c3b625.png" title="Daz Studio" alt="Daz3D" width="40" height="40"/>&nbsp;
   </picture>
 </div>
 
