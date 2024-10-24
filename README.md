@@ -84,6 +84,7 @@
 </picture>
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=HEE082024KH&size_weight=1&count_weight=0.5&bg_color=120,242424,7D2323&title_color=d12e2e&icon_color=d12e2e&text_color=8c8c8c&border_color=787878&border_radius=10&theme=dark#gh-dark-mode-only)](https://github.com/HEE082024KH/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=HEE082024KH&size_weight=1&count_weight=0.5&bg_color=120,ffecd9,f21f1f&title_color=f21f1f&icon_color=f21f1f&text_color=636363&border_color=787878&border_radius=10&theme=default#gh-light-mode-only)](https://github.com/HEE082024KH/github-readme-stats#gh-light-mode-only)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hee082024kh&theme=dark_lover&no-frame=true&title=-Issues,-Reviews,-Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=your-github-HEE082024KH&color=7D2323)
 
