@@ -100,7 +100,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://git.io/streak-stats#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=HEE082024KH&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=ffecd9&border=787878&stroke=F21F1F&ring=F21F1F&fire=F21F1F&currStreakNum=787878&sideNums=F21F1F&currStreakLabel=636363&sideLabels=636363&dates=F21F1F&excludeDaysLabel=F21F1F"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=HEE082024KH&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=ffecd9&border=787878&stroke=F21F1F&ring=F21F1F&fire=F21F1F&currStreakNum=787878&sideNums=F21F1F&currStreakLabel=636363&sideLabels=636363&dates=F21F1F&excludeDaysLabel=F21F1F"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true" />
