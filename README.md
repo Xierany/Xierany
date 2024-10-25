@@ -76,7 +76,7 @@
 
 ### 🏆 My Stats:
 
-<picture>
+<picture id=Stats Counter>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&icon_color=d12e2e&title_color=d12e2e&text_color=8c8c8c&border_radius=10&bg_color=242424"
     media="(prefers-color-scheme: dark)"
@@ -87,14 +87,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true" />
 </picture>
-<picture>
-  <a href="https://git.io/streak-stats#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=HEE082024KH&theme=dark&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=242424&ring=D12E2E&fire=D12E2E&stroke=D12E2E&border=787878&currStreakNum=8C8C8C&currStreakLabel=D12E2E&sideNums=8C8C8C&sideLabels=D12E2E&dates=8C8C8C&excludeDaysLabel=D12E2E#gh-dark-mode-only" alt="GitHub Streak" /></a>
-</picture>
-<picture>
-<a href="https://git.io/streak-stats#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=HEE082024KH&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=ffecd9&border=787878&stroke=F21F1F&ring=F21F1F&fire=F21F1F&currStreakNum=787878&sideNums=F21F1F&currStreakLabel=636363&sideLabels=636363&dates=F21F1F&excludeDaysLabel=F21F1F" alt="GitHub Streak#gh-light-mode-only" alt="GitHub Streak" /></a>
-</picture>
-
-<picture>
+<picture id=Streak Counter>
   <source
     srcset="https://github-readme-streak-stats.herokuapp.com?user=HEE082024KH&theme=dark&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=242424&ring=D12E2E&fire=D12E2E&stroke=D12E2E&border=787878&currStreakNum=8C8C8C&currStreakLabel=D12E2E&sideNums=8C8C8C&sideLabels=D12E2E&dates=8C8C8C&excludeDaysLabel=D12E2E"
     media="(prefers-color-scheme: dark)"
@@ -105,8 +98,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true" />
 </picture>
-
-<picture>
+<picture id=Language Stats>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HEE082024KH&size_weight=1&count_weight=0.5&bg_color=242424&title_color=d12e2e&icon_color=d12e2e&text_color=8c8c8c&border_color=787878&border_radius=10"
     media="(prefers-color-scheme: dark)"
