@@ -76,6 +76,17 @@
 
 ### 🏆 My Stats:
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&icon_color=d12e2e&title_color=d12e2e&text_color=8c8c8c&border_radius=10&bg_color=242424,7D2323"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&&icon_color=f21f1f&title_color=f21f1ftext_color=636363&border_radius=10&bg_color=ffecd9,f21f1f"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true" />
+</picture>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HEE082024KH&show_icons=true&bg_color=100,242424,7D2323&title_color=d12e2e&icon_color=d12e2e&text_color=8c8c8c&border_color=787878&border_radius=10&theme=dark#gh-dark-mode-only)](https://github.com/HEE082024KH/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=HEE082024KH&show_icons=true&bg_color=100,ffecd9,f21f1f&title_color=f21f1f&icon_color=f21f1f&text_color=636363&border_color=787878&border_radius=10&theme=default#gh-light-mode-only)](https://github.com/HEE082024KH/github-readme-stats#gh-light-mode-only)
