@@ -110,7 +110,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true" />
 </picture>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hee082024kh&theme=dark_lover&no-frame=true&title=-Issues,-Reviews,-Experience)](https://github.com/ryo-ma/github-profile-trophy)
+<picture id=Trophies>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=hee082024kh&theme=chalk&no-frame=true&title=-Issues&title=-Reviews&title=-Experience"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=hee082024kh&no-frame=true&title=-Issues&title=-Reviews&title=-Experience"
+    media="(prefers-color-sceme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="" />
+</picture>
 
 ![](https://komarev.com/ghpvc/?username=your-github-HEE082024KH&color=7D2323)
 
