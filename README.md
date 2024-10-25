@@ -82,7 +82,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&&icon_color=f21f1f&title_color=f21f1f&text_color=636363&border_radius=10&bg_color=ffecd9"
+    srcset="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&&icon_color=f21f1f&title_color=f21f1f&text_color=636363&border_radius=10&bg_color=2CFFECD9"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true" />
