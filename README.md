@@ -82,7 +82,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&&icon_color=f21f1f&title_color=f21f1f&text_color=636363&border_radius=10&bg_color=2CFFECD9"
+    srcset="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&&icon_color=f21f1f&title_color=f21f1f&text_color=636363&border_radius=10&bg_color=ffecd9"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true" />
@@ -91,7 +91,7 @@
   <a href="https://git.io/streak-stats#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=HEE082024KH&theme=dark&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=242424&ring=D12E2E&fire=D12E2E&stroke=D12E2E&border=787878&currStreakNum=8C8C8C&currStreakLabel=D12E2E&sideNums=8C8C8C&sideLabels=D12E2E&dates=8C8C8C&excludeDaysLabel=D12E2E#gh-dark-mode-only" alt="GitHub Streak" /></a>
 </picture>
 <picture>
-<a href="https://git.io/streak-stats#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=HEE082024KH&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=2CFFECD9&border=787878&stroke=F21F1F&ring=F21F1F&fire=F21F1F&currStreakNum=787878&sideNums=F21F1F&currStreakLabel=636363&sideLabels=636363&dates=F21F1F&excludeDaysLabel=F21F1F" alt="GitHub Streak#gh-light-mode-only" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=HEE082024KH&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=ffecd9&border=787878&stroke=F21F1F&ring=F21F1F&fire=F21F1F&currStreakNum=787878&sideNums=F21F1F&currStreakLabel=636363&sideLabels=636363&dates=F21F1F&excludeDaysLabel=F21F1F" alt="GitHub Streak#gh-light-mode-only" alt="GitHub Streak" /></a>
 </picture>
 
 <picture>
