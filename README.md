@@ -122,8 +122,12 @@
   <img src="" />
 </picture>
 <br></br>
-
-![](https://komarev.com/ghpvc/?username=your-github-HEE082024KH&color=7D2323)
+<picture id=View Counter>
+  <source
+    srcset="https://komarev.com/ghpvc/?username=your-github-HEE082024KH&color=7D2323"
+  />
+  <img src="" />
+</picture>
 
 <!--
 
