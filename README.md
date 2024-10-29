@@ -111,7 +111,7 @@
 </picture>
 <picture id=TROPHIES>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=hee082024kh&theme=chalk&no-frame=true&title=-Issues&title=-Reviews&title=-Experience" width="750"
+    srcset="https://github-profile-trophy.vercel.app/?username=hee082024kh&theme=chalk&no-frame=true&title=-Issues&title=-Reviews&title=-Experience" width="820" display="inline"
     media="(prefers-color-scheme: dark)"
   />
   <source
