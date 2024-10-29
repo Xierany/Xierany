@@ -100,7 +100,7 @@
 </picture>
 <picture id=LANGUAGE STATS>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HEE082024KH&size_weight=1&count_weight=0.5&bg_color=242424&title_color=d12e2e&icon_color=d12e2e&text_color=8c8c8c&border_color=787878&border_radius=10" height="175"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HEE082024KH&size_weight=1&count_weight=0.5&bg_color=242424&title_color=d12e2e&icon_color=d12e2e&text_color=8c8c8c&border_color=787878&border_radius=10" height="175" 
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -111,7 +111,7 @@
 </picture>
 <picture id=TROPHIES>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=hee082024kh&theme=chalk&no-frame=true&title=-Issues&title=-Reviews&title=-Experience" width="820" display="inline"
+    srcset="https://github-profile-trophy.vercel.app/?username=hee082024kh&theme=chalk&no-frame=true&title=-Issues&title=-Reviews&title=-Experience" width="750"
     media="(prefers-color-scheme: dark)"
   />
   <source
