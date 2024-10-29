@@ -76,31 +76,31 @@
 
 ### 🏆 My Stats:
 
-<picture id=Stats Counter>
+<picture id=STATS COUNTER>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&icon_color=d12e2e&title_color=d12e2e&text_color=8c8c8c&border_radius=10&bg_color=242424" height="175"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&&icon_color=f21f1f&title_color=f21f1f&text_color=636363&border_radius=10&bg_color=ffecd9"
+    srcset="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&&icon_color=f21f1f&title_color=f21f1f&text_color=636363&border_radius=10&bg_color=ffecd9" height="175"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true" />
 </picture>
-<picture id=Streak Counter>
+<picture id=STREAK COUNTER>
   <source
     srcset="https://github-readme-streak-stats.herokuapp.com?user=HEE082024KH&theme=dark&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=242424&ring=D12E2E&fire=D12E2E&stroke=D12E2E&border=787878&currStreakNum=8C8C8C&currStreakLabel=D12E2E&sideNums=8C8C8C&sideLabels=D12E2E&dates=8C8C8C&excludeDaysLabel=D12E2E" height="175"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=HEE082024KH&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=ffecd9&border=787878&stroke=F21F1F&ring=F21F1F&fire=F21F1F&currStreakNum=787878&sideNums=F21F1F&currStreakLabel=636363&sideLabels=636363&dates=F21F1F&excludeDaysLabel=F21F1F"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=HEE082024KH&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=ffecd9&border=787878&stroke=F21F1F&ring=F21F1F&fire=F21F1F&currStreakNum=787878&sideNums=F21F1F&currStreakLabel=636363&sideLabels=636363&dates=F21F1F&excludeDaysLabel=F21F1F" heigh="175"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true" />
 </picture>
-<picture id=Language Stats>
+<picture id=LANGUAGE STATS>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HEE082024KH&size_weight=1&count_weight=0.5&bg_color=242424&title_color=d12e2e&icon_color=d12e2e&text_color=8c8c8c&border_color=787878&border_radius=10"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HEE082024KH&size_weight=1&count_weight=0.5&bg_color=242424&title_color=d12e2e&icon_color=d12e2e&text_color=8c8c8c&border_color=787878&border_radius=10" height="175"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -109,10 +109,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true" />
 </picture>
-
-<picture id=Trophies>
+<picture id=TROPHIES>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=hee082024kh&theme=chalk&no-frame=true&title=-Issues&title=-Reviews&title=-Experience"
+    srcset="https://github-profile-trophy.vercel.app/?username=hee082024kh&theme=chalk&no-frame=true&title=-Issues&title=-Reviews&title=-Experience" width="900"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -122,7 +121,7 @@
   <img src="" />
 </picture>
 <br></br>
-<picture id=View Counter>
+<picture id=VIEW COUNTER>
   <source
     srcset="https://komarev.com/ghpvc/?username=your-github-HEE082024KH&color=7D2323"
   />
