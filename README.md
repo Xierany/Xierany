@@ -7,7 +7,7 @@
 ### 👨‍💻 About me:
 - 💻 In the process of learning programming through Jobloop.
 - 👨‍🏫 4-year teachers degree and several years experience working as a teacher.
-- 💾 20+ years experience maintaining and fixing computers, both software and hardware.
+- 💾 25+ years experience maintaining and fixing computers, both software and hardware.
 - 🕹️ In my spare time, I do 3D and work on video games.
 - 🥁 I play 3 different instruments, and follow several types of sports.
 ### 📫 Contact me here:
