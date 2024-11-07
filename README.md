@@ -115,7 +115,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=hee082024kh&no-frame=true&title=-Issues&title=-Reviews&title=-Experience"
+    srcset="https://github-profile-trophy.vercel.app/?username=hee082024kh&no-frame=true&row=2&column=4" width="42%"
     media="(prefers-color-sceme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="" />
