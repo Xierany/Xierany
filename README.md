@@ -100,7 +100,7 @@
 </picture>
 <picture id=LANGUAGE STATS>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HEE082024KH&size_weight=1&count_weight=0.5&layout=compact&bg_color=242424&title_color=d12e2e&icon_color=d12e2e&text_color=8c8c8c&border_color=787878&border_radius=5"  width="45%"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HEE082024KH&size_weight=1&count_weight=1&layout=compact&bg_color=242424&title_color=d12e2e&icon_color=d12e2e&text_color=8c8c8c&border_color=787878&border_radius=5"  width="45%"
     media="(prefers-color-scheme: dark)"
   />
   <source
