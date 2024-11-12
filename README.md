@@ -1,6 +1,6 @@
 <picture>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="525" height="295"/> 
-</picture>
+</picture> &nbsp;
 
 ---
 
@@ -123,6 +123,10 @@
 <br></br>
 <picture id=JOKES CARD>
 <img src="https://readme-jokes.vercel.app/api?&qColor=%23d12e2e&aColor=%238c8c8c&borderColor=%23787878&textColor=%23ffecd9&codeColor=2e41d1&bgColor=#7D2323" alt="Jokes Card" />
+</picture>
+
+<picture id=JOKES CARD>
+<img src="https://readme-jokes.vercel.app/api?&qColor=%2378218c&aColor=%238c8c8c&borderColor=%23787878&textColor=%23ffecd9&codeColor=2e41d1&bgColor=#050c21" alt="Jokes Card" />
 </picture>
 <br>
 <picture id=VIEW COUNTER>
