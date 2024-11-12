@@ -124,7 +124,7 @@
 <picture id=JOKES CARD>
 <img src="https://readme-jokes.vercel.app/api?&qColor=%23d12e2e&aColor=%238c8c8c&borderColor=%23787878&textColor=%23ffecd9&codeColor=2e41d1&bgColor=#7D2323" alt="Jokes Card" />
 </picture>
-<br></br>
+<br>
 <picture id=VIEW COUNTER>
   <source
     srcset="https://komarev.com/ghpvc/?username=your-github-HEE082024KH&color=7D2323"
