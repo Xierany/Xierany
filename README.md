@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About me:
-- 💻 In the process of learning programming through Jobloop.
+- 🌱 In the process of learning programming through Jobloop.
 - 👨‍🏫 4-year teachers degree and several years experience working as a teacher.
 - 💾 25+ years experience maintaining and fixing computers, both software and hardware.
 - 🕹️ In my spare time, I do 3D and work on video games.
@@ -121,12 +121,17 @@
   <img src="" />
 </picture>
 <br></br>
+<picture id=JOKES CARD>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</picture>
+<br></br>
 <picture id=VIEW COUNTER>
   <source
     srcset="https://komarev.com/ghpvc/?username=your-github-HEE082024KH&color=7D2323"
   />
   <img src="" />
 </picture>
+
 
 <!--
 
