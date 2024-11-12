@@ -122,11 +122,15 @@
 </picture>
 <br></br>
 <picture id=JOKES CARD>
-<img src="https://readme-jokes.vercel.app/api?&qColor=%23d12e2e&aColor=%238c8c8c&borderColor=%23787878&textColor=%23ffecd9&codeColor=2e41d1&bgColor=#7D2323" alt="Jokes Card" width="45%"/>
-</picture>
-
-<picture id=JOKES CARD>
-<img src="https://readme-jokes.vercel.app/api?&qColor=%2378218c&aColor=%238c8c8c&borderColor=%23787878&textColor=%23ffecd9&codeColor=2e41d1&bgColor=#050c21" alt="Jokes Card" width="42%"/>
+  <source
+    srcset="https://readme-jokes.vercel.app/api?&qColor=%23d12e2e&aColor=%238c8c8c&borderColor=%23787878&textColor=%23ffecd9&codeColor=2e41d1&bgColor=#7D2323" alt="Jokes Card" width="45%"
+      media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://readme-jokes.vercel.app/api?&qColor=%23f21f1f&aColor=%23636363&borderColor=%23787878&textColor=%23ffecd9&codeColor=2e41d1&bgColor=#ffecd9" alt="Jokes Card" width="45%"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="" />
 </picture>
 <br>
 <picture id=VIEW COUNTER>
