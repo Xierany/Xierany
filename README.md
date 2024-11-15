@@ -13,7 +13,7 @@
 ### 📫 Contact me here:
 <a href="mailto:hee082024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" height="28px" alt="Gmail"></a> &nbsp;
 <a href="https://www.linkedin.com/in/eirik-hellesen-035695305"><img src="https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white" height="28px"><a/> &nbsp;
-<a href="https://discord.gg/users/1274996964089528396"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white" height="28px"></a>
+<a href="https://discordapp.com/users/1274996964089528396"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white" height="28px"></a>
 
 ---
 
