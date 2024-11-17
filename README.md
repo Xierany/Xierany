@@ -9,7 +9,7 @@
 - 👨‍🏫 4-year teachers degree and several years experience working as a teacher.
 - 💾 25+ years experience maintaining and fixing computers, both software and hardware.
 - 🕹️ In my spare time, I do 3D and work on video games.
-- 🥁 I play 3 different instruments, and follow several types of sports.
+- 🥁 Fun fact: I play 3 different instruments, and follow several types of sports.
 ### 📫 Contact me here:
 <a href="mailto:hee082024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" height="28px" alt="Gmail"></a> &nbsp;
 <a href="https://www.linkedin.com/in/eirik-hellesen-035695305"><img src="https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white" height="28px"><a/> &nbsp;
