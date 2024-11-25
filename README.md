@@ -125,9 +125,11 @@
 
 ---
 
-<a href="https://github.com/HEE082024KH/howto-github-readme"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hee082024kh&repo=howto-github-readme"> 
-</a> <br> <br>
+### 📃 Projects
+### <a href="https://github.com/HEE082024KH/howto-github-readme">How To GitHub Readme</a>
+- Simple guide to help people setup a nicer looking profile. <br> <br>
+
+##
 
 <picture id=JOKES CARD>
   <source
@@ -160,12 +162,4 @@ I am polite and nice, with good spirits and mood, being supportive, including an
 
 GITHUB OLD ICON:
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-
-LANGUAGE ICONS STRUCTURE:
-<img src="" title="" alt="" width="40" height="40"/>&nbsp;
-
-CODER GIFS:
-Burning coder:     https://giphy.com/gifs/13HgwGsXF0aiGY
-Monkey coder:      https://giphy.com/gifs/FlPJcTplkfefDCKq2b
-
 -->
