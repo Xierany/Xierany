@@ -128,7 +128,7 @@
 
 ### 📃 Projects
 ### <a href="https://github.com/HEE082024KH/howto-github-readme">How To GitHub Readme</a>
-- Simple guide to help people set up a nicer looking profile. <br> <br>
+- Simple guide to help people set up a nicer looking GitHub profile. <br> <br>
 
 ##
 
