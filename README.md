@@ -28,6 +28,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  </picture>
+  <picture>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
