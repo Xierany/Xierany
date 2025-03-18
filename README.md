@@ -59,6 +59,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Aseprite.png" title="Aseprite" alt="Aseprite" width="40" height="40"/>&nbsp;
+  </picture>
+  <picture>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
