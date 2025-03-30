@@ -31,9 +31,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" title="Rider" alt="JetBrains Rider" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  </picture>
-  <picture>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
@@ -41,9 +38,6 @@
   </picture>
   <picture>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
-  </picture>
-  <picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
@@ -62,20 +56,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Aseprite.png" title="Aseprite" alt="Aseprite" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  </picture>
-  <picture>
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  </picture>
-  <picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://www.iconsdb.com/icons/preview/white/apple-xxl.png" title="Apple" alt="Apple" width="40" height="40">
     <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40">
-  </picture>
-  <picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/renpy/renpy-original.svg" title="Renpy" alt="Renpy" width="40" height="40"/>&nbsp;
   </picture>
 </div>
 
