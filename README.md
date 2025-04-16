@@ -120,7 +120,7 @@
 ### 📃 Projects
 ### <a href="https://github.com/HEE082024KH/howto-github-readme">How To GitHub Readme</a>
 - Simple guide to help people set up a nicer looking GitHub profile.
-### <a href="https://github.com/HEE082024KH/TextBasedGame">Text Based Game (in Progress)</a>
+### <a href="https://github.com/HEE082024KH/TextBasedGame">Text Based Game (on Hold)</a>
 - Simple text based terminal game. <br> <br>
 
 
