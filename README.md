@@ -1,5 +1,5 @@
 <picture>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="525" height="295"/> 
+<img src="https://github.com/HEE082024KH/HEE082024KH/blob/main/images/Mario%20GIF.gif" width="525" height="295"/> 
 </picture> &nbsp;
 
 ---
@@ -22,45 +22,45 @@
 
 <div>
   <picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C Sharp" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/HEE082024KH/HEE082024KH/blob/main/images/CSharp.svg" title="C#" alt="C Sharp" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/HEE082024KH/HEE082024KH/blob/main/images/Unity.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" title="Rider" alt="JetBrains Rider" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/HEE082024KH/HEE082024KH/blob/main/images/Rider.svg" title="Rider" alt="JetBrains Rider" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/HEE082024KH/HEE082024KH/blob/main/images/Python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".Net Core" alt="Dot Net Core" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/HEE082024KH/HEE082024KH/blob/main/images/DotNet.svg" title=".Net Core" alt="Dot Net Core" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/HEE082024KH/HEE082024KH/blob/main/images/SQLite.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/HEE082024KH/HEE082024KH/blob/main/images/HTML.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/HEE082024KH/HEE082024KH/blob/main/images/CSS.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://static-00.iconduck.com/assets.00/github-light-icon-2048x1998-m3c0rgap.png" title="GitHub" alt="GitHub" width="40" height="40">
-    <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="45" height="45">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HEE082024KH/HEE082024KH/blob/main/images/GitHub%20White.png" title="GitHub" alt="GitHub" width="40" height="40">
+    <img alt="" src="https://github.com/HEE082024KH/HEE082024KH/blob/main/images/GitHub%20Black.svg" title="GitHub" alt="GitHub" width="45" height="45">
   </picture>
   <picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/HEE082024KH/HEE082024KH/blob/main/images/Git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Aseprite.png" title="Aseprite" alt="Aseprite" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/HEE082024KH/HEE082024KH/blob/main/images/Aseprite.png" title="Aseprite" alt="Aseprite" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/HEE082024KH/HEE082024KH/blob/main/images/Photoshop.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.iconsdb.com/icons/preview/white/apple-xxl.png" title="Apple" alt="Apple" width="40" height="40">
-    <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HEE082024KH/HEE082024KH/blob/main/images/Apple%20White.png" title="Apple" alt="Apple" width="40" height="40">
+    <img alt="" src="https://github.com/HEE082024KH/HEE082024KH/blob/main/images/Apple%20Black.svg" title="Apple" alt="Apple" width="40" height="40">
   </picture>
 </div>
 
