@@ -8,7 +8,7 @@
 - 🌱 In the process of learning programming through Jobloop.
 - 👨‍🏫 4-year teachers degree and several years experience working as a teacher.
 - 💾 25+ years experience maintaining and fixing computers, both software and hardware.
-- 🕹️ In my spare time, I create pixel art assets and work on video games.
+- 🕹️ In my spare time I create pixel art assets, work with 3D, and both play and work on video games.
 - 💬 Fluent in Norwegian and English.
 - 🥁 Fun fact: I play 3 different instruments, and follow several types of sports.
 ### 📫 Contact me here
