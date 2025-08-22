@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About me
-- 🌱 Just finished a 1 year course learning C# programming.
+- 🌱 Just finished a 1 year course learning C# programming and more.
 - 👨‍🏫 4-year teachers degree and several years experience working as a teacher.
 - 💾 25+ years experience maintaining and fixing computers, both software and hardware.
 - 🕹️ In my spare time I create pixel art assets, work with 3D, and both play and work on video games.
